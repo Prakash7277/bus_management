@@ -1,0 +1,26 @@
+.login{
+    position: fixed;
+    background-color: rgb(163, 240, 246);
+    width: 350px;
+    height: 350px;
+    top: 100px;
+    left: 350px;
+}
+table{
+    width: 300;
+    height: 150;
+    margin: auto;
+}
+/* Add Font in CSS */
+ @font-face {
+                font-family: 'myfont';
+                src: url('./3Dumb-webfont.woff') format('woff');
+        }
+        
+/* Use Font In SCC */
+h1{
+    font-family: 'myfont';
+    text-align: center;
+}
+
+        
